@@ -1,0 +1,35 @@
+/* Your styles should go here */
+@import url(http://fonts.googleapis.com/css?family=Comfortaa|Courgette);
+
+
+body {
+  font-family: 'Comfortaa', cursive;
+}
+
+.question-items  li {
+  cursor: pointer;
+  font-size: 1.2em;  
+}
+
+.question-items  li:hover {
+  color: darkred;
+}
+
+h1 {
+  line-height: 50px;
+}
+
+h1 span {
+  color: dimgrey;
+  font-style: italic;
+}
+
+h1 img {
+  float: left;
+}
+
+.card {
+  min-height: 200px;
+  background: #efefef;
+  padding: 10px;
+}

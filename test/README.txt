@@ -1,0 +1,2 @@
+- Write your test cases in spec/app.spec.js
+- you can run your test cases by clicking on index.html
